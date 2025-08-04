@@ -1,2 +1,2 @@
-#<img src="https://codeforces.org/s/25738/images/codeforces-sponsored-by-ton.png" height = "100" width="100"> Codeforces
+# Codeforces
 You can see  ansewrs there... 
